@@ -25,7 +25,7 @@ func main() {
 	// err = any errors
 	// NEVER HAVE A VARIABLE YOU DONT USE
 	// if need to hold space as variable use _
-	// ex) n, _ 
+	// ex) n, _
 	// but will not be able to use fmt.Println(_)
 }
 
