@@ -45,3 +45,8 @@ func gavin() {
 		}
 	}
 }
+
+// Control Flow
+// (1) Sequence
+// (2) loop; iterative
+// (3) Conditional
