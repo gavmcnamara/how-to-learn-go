@@ -12,4 +12,4 @@ func main() {
 // fmt.Println can pass in value of any type
 // String
 // Integer
-// bool 
+// bool
