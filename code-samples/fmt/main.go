@@ -1,5 +1,9 @@
 package main
 
+// Packages allows us to organize our code 
+// into differnt packages, similar to how 
+// folders are organized on our computers
+
 import (
 	"fmt"
 )
