@@ -12,10 +12,14 @@ func main() {
 
 	// Whenever needed to create variable outside function
 	// body use var and NOT short declaration operator
-	var y = 345
-	fmt.Println(y)
-
 	fmt.Println(z)
+
+	foo()
+}
+
+func foo() {
+
+	fmt.Println("again:", z)
 }
 
 // NOTE: limit scope of your varibles and try to use
