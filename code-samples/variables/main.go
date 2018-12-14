@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+// DECLARE the variable "z"
+// ASSIGN  the value 43
+// declare & assign = initialization
 var z = 18
 
 // declares there is a VARIABLE with the IDENTIFIER "z"
