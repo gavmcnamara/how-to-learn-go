@@ -4,6 +4,10 @@ import "fmt"
 
 var z = 18
 
+// declares there is a VARIABLE with the IDENTIFIER "z"
+// and that the VARIABLE with the IDENTIFIER "z" is of TYPE int
+var y int
+
 func main() {
 	// short declaration operator
 	// DECLARE variable and ASSIGN a value
@@ -15,6 +19,8 @@ func main() {
 	fmt.Println(z)
 
 	foo()
+
+	fmt.Println(y)
 }
 
 func foo() {
