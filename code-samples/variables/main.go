@@ -6,6 +6,7 @@ var z = 18
 
 // declares there is a VARIABLE with the IDENTIFIER "z"
 // and that the VARIABLE with the IDENTIFIER "z" is of TYPE int
+// ASSIGNS the ZERO VALUE of TYPE int to "z"
 var y int
 
 func main() {
