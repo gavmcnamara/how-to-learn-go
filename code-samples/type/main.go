@@ -32,7 +32,7 @@ func main() {
 	fmt.Println(a)
 	fmt.Printf("%T\n", a)
 
-	zeroType()
+	zeroValue()
 }
 
 // primitive data types: basic or built-in data types
@@ -42,7 +42,7 @@ func main() {
 // slice: hold many values of one type
 // struct: hold many values of different types
 
-func zeroType() {
+func zeroValue() {
 	fmt.Println("printing value of b:", b, "ending")
 	fmt.Printf("%T\n", b)
 
